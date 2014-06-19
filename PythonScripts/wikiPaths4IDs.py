@@ -48,7 +48,7 @@ def GetWikiPaths4IDs(idList,SC):
             if len(probeset_containing)>0 :
                 for object in probeset_containing:
                     #calls select dictionary keys to print out values            
-                    print_output += str(index)+'\t'+gi+'\t'+object['species']+'\t'+object['id']+'\t'+object['name']+'\n'
+                    print_output += str(index)+'\t'+str(gi)+'\t'+str(object['species'])+'\t'+str(object['id'])+'\t'+str(object['name'])+'\n'
                     index+=1
         except:
             pass # if error do nothing

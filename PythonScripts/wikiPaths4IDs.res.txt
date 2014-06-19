@@ -11,102 +11,16 @@
 11	P00519	Homo sapiens	WP707	DNA Damage Response
 12	P00519	Homo sapiens	WP1530	miRNA Regulation of DNA Damage Response
 13	P00519	Homo sapiens	WP2446	RB in Cancer
-14	P00734	Homo sapiens	WP2664	Gastrin-CREB signalling pathway via PKC and MAPK
-15	P00734	Homo sapiens	WP2664	Gastrin-CREB signalling pathway via PKC and MAPK
-16	P00734	Homo sapiens	WP2664	Gastrin-CREB signalling pathway via PKC and MAPK
-17	P00734	Homo sapiens	WP2664	Gastrin-CREB signalling pathway via PKC and MAPK
-18	P00734	Homo sapiens	WP2799	Regulation of Insulin-like Growth Factor (IGF) Transport and Uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)
-19	P00734	Homo sapiens	WP2799	Regulation of Insulin-like Growth Factor (IGF) Transport and Uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)
-20	P00734	Homo sapiens	WP2762	PTM: gamma carboxylation, hypusine formation and arylsulfatase activation
-21	P00734	Homo sapiens	WP2762	PTM: gamma carboxylation, hypusine formation and arylsulfatase activation
-22	P00734	Homo sapiens	WP2762	PTM: gamma carboxylation, hypusine formation and arylsulfatase activation
-23	P00734	Homo sapiens	WP2762	PTM: gamma carboxylation, hypusine formation and arylsulfatase activation
-24	P00734	Homo sapiens	WP2762	PTM: gamma carboxylation, hypusine formation and arylsulfatase activation
-25	P00734	Homo sapiens	WP15	Selenium Micronutrient Network
-26	P00734	Homo sapiens	WP15	Selenium Micronutrient Network
-27	P00734	Homo sapiens	WP558	Complement and Coagulation Cascades
-28	P00734	Homo sapiens	WP1533	Vitamin B12 Metabolism
-29	P00734	Homo sapiens	WP1533	Vitamin B12 Metabolism
-30	P00734	Homo sapiens	WP272	Blood Clotting Cascade
-31	P00734	Homo sapiens	WP272	Blood Clotting Cascade
-32	P00734	Homo sapiens	WP51	Regulation of Actin Cytoskeleton
-33	P00734	Homo sapiens	WP1993	Angiogenesis overview
-34	P00734	Homo sapiens	WP176	Folate Metabolism
-35	P00734	Homo sapiens	WP176	Folate Metabolism
-36	P05121	Homo sapiens	WP15	Selenium Micronutrient Network
-37	P05121	Homo sapiens	WP15	Selenium Micronutrient Network
-38	P05121	Homo sapiens	WP558	Complement and Coagulation Cascades
-39	P05121	Homo sapiens	WP1533	Vitamin B12 Metabolism
-40	P05121	Homo sapiens	WP1533	Vitamin B12 Metabolism
-41	P05121	Homo sapiens	WP236	Adipogenesis
-42	P05121	Homo sapiens	WP272	Blood Clotting Cascade
-43	P05121	Homo sapiens	WP615	Senescence and Autophagy
-44	P05121	Homo sapiens	WP560	TGF Beta Signaling Pathway
-45	P05121	Homo sapiens	WP2374	Oncostatin M Signaling Pathway
-46	P05121	Homo sapiens	WP176	Folate Metabolism
-47	P05121	Homo sapiens	WP176	Folate Metabolism
-48	P29466	Homo sapiens	WP2763	Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways
-49	P29466	Homo sapiens	WP2763	Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways
-50	P29466	Homo sapiens	WP2763	Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways
-51	P29466	Homo sapiens	WP2763	Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways
-52	P29466	Homo sapiens	WP2447	Amyotrophic lateral sclerosis (ALS)
-53	P29466	Homo sapiens	WP254	Apoptosis
-54	P29466	Homo sapiens	WP382	MAPK Signaling Pathway
-55	P29466	Homo sapiens	WP2359	Parkin-Ubiquitin Proteasomal System pathway
-56	P42574	Homo sapiens	WP1841	Intrinsic Pathway for Apoptosis
-57	P42574	Homo sapiens	WP1841	Intrinsic Pathway for Apoptosis
-58	P42574	Homo sapiens	WP1841	Intrinsic Pathway for Apoptosis
-59	P42574	Homo sapiens	WP1841	Intrinsic Pathway for Apoptosis
-60	P42574	Homo sapiens	WP1841	Intrinsic Pathway for Apoptosis
-61	P42574	Homo sapiens	WP1841	Intrinsic Pathway for Apoptosis
-62	P42574	Homo sapiens	WP1841	Intrinsic Pathway for Apoptosis
-63	P42574	Homo sapiens	WP1784	Apoptotic execution  phase
-64	P42574	Homo sapiens	WP1784	Apoptotic execution  phase
-65	P42574	Homo sapiens	WP1784	Apoptotic execution  phase
-66	P42574	Homo sapiens	WP1784	Apoptotic execution  phase
-67	P42574	Homo sapiens	WP1784	Apoptotic execution  phase
-68	P42574	Homo sapiens	WP1784	Apoptotic execution  phase
-69	P42574	Homo sapiens	WP254	Apoptosis
-70	P42574	Homo sapiens	WP2380	BDNF signaling pathway
-71	P42574	Homo sapiens	WP382	MAPK Signaling Pathway
-72	P42574	Homo sapiens	WP706	SIDS Susceptibility Pathways
-73	P42574	Homo sapiens	WP1772	Apoptosis Modulation and Signaling
-74	P42574	Homo sapiens	WP231	TNF alpha Signaling Pathway
-75	P42574	Homo sapiens	WP2119	Interferon induced apoptosis - delete
-76	P42574	Homo sapiens	WP2036	TWEAK Signaling Pathway
-77	P42574	Homo sapiens	WP384	Apoptosis Modulation by HSP70
-78	P42574	Homo sapiens	WP2371	Parkinsons Disease Pathway
-79	P42574	Homo sapiens	WP2324	AGE/RAGE pathway
-80	P42574	Homo sapiens	WP2355	Corticotropin-releasing hormone
-81	P42574	Homo sapiens	WP1971	Integrated Cancer pathway
-82	P42574	Homo sapiens	WP2263	Prostate Cancer
-83	P42574	Homo sapiens	WP2447	Amyotrophic lateral sclerosis (ALS)
-84	P42574	Homo sapiens	WP2512	Integrated Lung Cancer Pathway
-85	P42574	Homo sapiens	WP2374	Oncostatin M Signaling Pathway
-86	P42574	Homo sapiens	WP2431	Spinal Cord Injury
-87	P42574	Homo sapiens	WP2507	Nanomaterial induced apoptosis
-88	P42574	Homo sapiens	WP2328	Allograft Rejection
-89	P42574	Homo sapiens	WP2059	Alzheimers Disease
-90	P42574	Homo sapiens	WP2059	Alzheimers Disease
-91	P42574	Homo sapiens	WP707	DNA Damage Response
-92	P42574	Homo sapiens	WP1530	miRNA Regulation of DNA Damage Response
-93	P42574	Homo sapiens	WP2037	Prolactin Signaling Pathway
-94	P96405	Mycobacterium tuberculosis	WP1673	Naphthalene and anthracene degradation
-95	P96405	Mycobacterium tuberculosis	WP1665	Limonene and pinene degradation
-96	P96405	Mycobacterium tuberculosis	WP1655	Geraniol degradation
-97	P96405	Mycobacterium tuberculosis	WP1655	Geraniol degradation
-98	P96405	Mycobacterium tuberculosis	WP1614	1- and 2-Methylnaphthalene degradation
-99	P96405	Mycobacterium tuberculosis	WP1614	1- and 2-Methylnaphthalene degradation
-100	P96405	Mycobacterium tuberculosis	WP1614	1- and 2-Methylnaphthalene degradation
-101	P96405	Mycobacterium tuberculosis	WP1614	1- and 2-Methylnaphthalene degradation
-102	Q9NR28	Homo sapiens	WP1841	Intrinsic Pathway for Apoptosis
-103	Q9NR28	Homo sapiens	WP1841	Intrinsic Pathway for Apoptosis
-104	Q9NR28	Homo sapiens	WP1841	Intrinsic Pathway for Apoptosis
-105	Q9NR28	Homo sapiens	WP1841	Intrinsic Pathway for Apoptosis
-106	Q9NR28	Homo sapiens	WP1841	Intrinsic Pathway for Apoptosis
-107	Q9NR28	Homo sapiens	WP1841	Intrinsic Pathway for Apoptosis
-108	Q9NR28	Homo sapiens	WP2507	Nanomaterial induced apoptosis
-109	Q9NR28	Homo sapiens	WP254	Apoptosis
-110	Q9NR28	Homo sapiens	WP1772	Apoptosis Modulation and Signaling
-111	Q9NR28	Homo sapiens	WP231	TNF alpha Signaling Pathway
-112	Q9NR28	Homo sapiens	WP231	TNF alpha Signaling Pathway
+14	Q9NR28	Homo sapiens	WP1841	Intrinsic Pathway for Apoptosis
+15	Q9NR28	Homo sapiens	WP1841	Intrinsic Pathway for Apoptosis
+16	Q9NR28	Homo sapiens	WP1841	Intrinsic Pathway for Apoptosis
+17	Q9NR28	Homo sapiens	WP1841	Intrinsic Pathway for Apoptosis
+18	Q9NR28	Homo sapiens	WP1841	Intrinsic Pathway for Apoptosis
+19	Q9NR28	Homo sapiens	WP1841	Intrinsic Pathway for Apoptosis
+20	Q9NR28	Homo sapiens	WP2507	Nanomaterial induced apoptosis
+21	Q9NR28	Homo sapiens	WP2808	TNF alpha Signaling Pathway
+22	Q9NR28	Homo sapiens	WP2808	TNF alpha Signaling Pathway
+23	Q9NR28	Homo sapiens	WP254	Apoptosis
+24	Q9NR28	Homo sapiens	WP1772	Apoptosis Modulation and Signaling
+25	Q9NR28	Homo sapiens	WP231	TNF alpha Signaling Pathway
+26	Q9NR28	Homo sapiens	WP231	TNF alpha Signaling Pathway
