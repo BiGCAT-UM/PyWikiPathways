@@ -24,3 +24,4 @@
 24	Q9NR28	Homo sapiens	WP1772	Apoptosis Modulation and Signaling
 25	Q9NR28	Homo sapiens	WP231	TNF alpha Signaling Pathway
 26	Q9NR28	Homo sapiens	WP231	TNF alpha Signaling Pathway
+.
