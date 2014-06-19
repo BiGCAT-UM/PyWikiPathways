@@ -61,7 +61,7 @@ def GetWikiPaths4IDs(idList,SC):
 import sys
 
 # Parameters from the command line
-# -----------------------------------
+# -------------------------------------------
 # sys.argv[1] = type of system codes used by WikiPathways [string]
 # sys.argv[2] = CSV file name with one column of IDs      [string]
 
