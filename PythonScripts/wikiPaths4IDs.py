@@ -48,10 +48,11 @@ def GetWikiPaths4IDs(idList,SC):
             if len(probeset_containing)>0 :
                 for object in probeset_containing:
                     #calls select dictionary keys to print out values            
-                    print_output += str(index)+'\t'+str(gi)+'\t'+str(object['species'])+'\t'+str(object['id'])+'\t'+str(object['name'])+'\n'
+                    print_output += str(int(index))+'\t'+str(gi)+'\t'+str(object['species'])+'\t'+str(object['id'])+'\t'+str(object['name'])+'\n'
                     index+=1
         except:
-            pass # if error do nothing
+            #pass # if error do nothing
+            print gi, 'No of pathways = ', len(probeset_containing)
     return print_output
         
 ##########################################
