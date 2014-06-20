@@ -1,3 +1,6 @@
+O74515 can't be found in WikiPathways!
+XXXXX can't be found in WikiPathways!
+P00488 has 7 pathways but it can be processed!
 1	P00519	Homo sapiens	WP2719	Fcgamma receptor (FCGR) dependent phagocytosis
 2	P00519	Homo sapiens	WP2272	Pathogenic Escherichia coli infection
 3	P00519	Homo sapiens	WP673	ErbB Signaling Pathway
@@ -24,4 +27,3 @@
 24	Q9NR28	Homo sapiens	WP1772	Apoptosis Modulation and Signaling
 25	Q9NR28	Homo sapiens	WP231	TNF alpha Signaling Pathway
 26	Q9NR28	Homo sapiens	WP231	TNF alpha Signaling Pathway
-.

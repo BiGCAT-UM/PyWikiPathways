@@ -41,18 +41,21 @@ def GetWikiPaths4IDs(idList,SC):
     print_output = '' # output of the function
     # For each ID findPathwaysByXref (multiple args; returns list of dictionary references)
     for gi in idList:
-        # avoid erors
+        # checking any erors
         try:
             probeset_containing = server.findPathwaysByXref(codes=SC, ids=gi)
+            NoPaths = len(probeset_containing)
             #Loops through a list of dictionary items if results
-            if len(probeset_containing)>0 :
+            if NoPaths > 0 :
                 for object in probeset_containing:
                     #calls select dictionary keys to print out values            
                     print_output += str(int(index))+'\t'+str(gi)+'\t'+str(object['species'])+'\t'+str(object['id'])+'\t'+str(object['name'])+'\n'
                     index+=1
+            else:
+                print gi, "can't be found in WikiPathways!"
         except:
             #pass # if error do nothing
-            print gi, 'No of pathways = ', len(probeset_containing)
+            print gi, 'has', NoPaths, 'pathways but it can be processed!'
     return print_output
         
 ##########################################
